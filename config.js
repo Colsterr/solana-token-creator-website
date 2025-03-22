@@ -12,7 +12,7 @@ window.pinata_secret_api_key =
 window.pinata_api_key = "b9fd1683b4f146d6d892"; // pinata api key
 
 // footer social links
-window.footer_twitter = "https://x.com/coinblastfun";
+window.footer_twitter = "https://x.com/Mintprintt";
 window.footer_discord = "https://discord.com/invite/xxxx";
 window.footer_telegram = "https://t.me/coinblastfun";
 
